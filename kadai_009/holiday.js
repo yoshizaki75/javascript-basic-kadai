@@ -6,7 +6,7 @@ for (let i = 0; i <= 15; i++) {
 
 let i = 0;
 
-while (i < holidays.lenght) {
+while (i < 16) {
     console.log(holidays[i]);
     i++;
 }
