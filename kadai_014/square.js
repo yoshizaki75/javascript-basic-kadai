@@ -1,4 +1,4 @@
 const squared = (number) => {
-    console.log(number **2);
+    return number **2;
 }
-squared(10);
+console.log(squared(10));
